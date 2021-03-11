@@ -1,0 +1,66 @@
+G:\C#\My Codes\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+G:\C#\My Codes\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+G:\C#\My Codes\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAssemblyReference.cache
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.Bill.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.CashierUpdate.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.CheckProfit.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteCashier.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteProduct.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.NewProduct.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.Start.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.OwnerPass.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.CashierPass.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.Supplier.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.UpdateProduct.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.QuickProduct.resources
+G:\C#\My Codes\SuperShop\SuperShop\obj\Debug\SuperShop.Stock.resources
+G:\C#\My Codes\SuperShop\SuperShop\bin\Debug\Tulpep.NotificationWindow.dll
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\Tulpep.NotificationWindow.dll
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAssemblyReference.cache
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Bill.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CashierUpdate.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CheckProfit.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteCashier.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteProduct.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.NewProduct.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.QuickProduct.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Start.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.OwnerPass.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CashierPass.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Stock.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Supplier.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.UpdateProduct.resources
+G:\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.exe.config
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.exe
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.pdb
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.exe
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\SuperShop.pdb
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\bin\Debug\Tulpep.NotificationWindow.dll
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.csprojResolveAssemblyReference.cache
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Bill.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CashierUpdate.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CheckProfit.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteCashier.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.DeleteProduct.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.NewProduct.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.QuickProduct.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Start.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.OwnerPass.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.CashierPass.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Properties.Resources.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Stock.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.Supplier.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.UpdateProduct.resources
+G:\3456 sem\8th semester\C#\My Codes\SuperShop xyz\SuperShop\SuperShop\obj\Debug\SuperShop.csproj.GenerateResource.Cache
